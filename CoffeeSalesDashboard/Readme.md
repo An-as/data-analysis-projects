@@ -109,12 +109,8 @@ This methodical approach, combining advanced Excel techniques with data analysis
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## 🙋‍♂️ Author
 
-Developed with ❤️ by [Your Name]
 
 📧 For any questions or feedback, please reach out via email: [anaskhan2157@gmail.com]
 
----
 
-⭐ If you find this project helpful, please consider giving it a star on GitHub! ⭐
